@@ -2,4 +2,4 @@
 Linear Regression - Ecommerce_customers_with_USA_Housing_Data
 
 
-please open Linear Regression Project.ipynb file
+Hit on Linear Regression Project.ipynb file
